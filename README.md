@@ -6,7 +6,7 @@ I architect and build **autonomous Agentic AI systems**, multi-agent workflows, 
 
 ---
 
-### 🧠 Agentic AI & Intelligent Systems (Primary Focus ~70%)
+### 🧠 Agentic AI & Intelligent Systems
 
 - **Multi-Agent Workflows:** Developing complex, stateful multi-agent systems using **LangGraph**, **LangChain**, and **LangSmith**.
 - **Tool Calling & MCP:** Connecting models to tools, real-time data sources, and external execution environments via the **Model Context Protocol (MCP)** and native function calling.
@@ -16,7 +16,7 @@ I architect and build **autonomous Agentic AI systems**, multi-agent workflows, 
 
 ---
 
-### ⚡ Scalable Backend & Distributed Systems (~30%)
+### ⚡ Scalable Backend & Distributed Systems 
 
 - **High-Performance Services:** Node.js, Express, NestJS, REST, and GraphQL APIs.
 - **Databases & Cache Optimization:** PostgreSQL, Prisma, Redis, distributed locks (solving thundering-herd issues), and query optimization (cut heavy queries by ~85%).
